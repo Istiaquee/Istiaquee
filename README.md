@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Istiaquee
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Software Quality Assurance
+- 🌱 I’m currently learning Python for Automation Testing
 - 📫 How to reach me ia.istiaque@gmail.com
 
 <!---
