@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Istiaquee
-- 👀 I’m interested in Software Quality Assurance
+- 👀 I’m qoeking as a Software Quality Assurance
 - 🌱 I’m currently learning Cypress for Automation Testing
 - 📫 How to reach me ia.istiaque@gmail.com
 
