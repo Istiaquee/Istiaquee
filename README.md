@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Istiaquee
-- 👀 I’m qoeking as a Software Quality Assurance
-- 🌱 I’m currently learning Cypress for Automation Testing
+- 👀 I’m Product Manager
 - 📫 How to reach me ia.istiaque@gmail.com
 
 <!---
