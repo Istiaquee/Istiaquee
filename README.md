@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Istiaquee
-- 👀 I’m Product Manager
+- 👀 I’m a Product Manager
 - 📫 How to reach me ia.istiaque@gmail.com
 
 <!---
